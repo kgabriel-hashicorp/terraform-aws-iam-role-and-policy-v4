@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.0 (2024-01-04)
+
+
+### Features
+
+* Add necessary files ([f851c9e](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/commit/f851c9e68d1bee6009f70586e1b42261c49aace2))
+* Adding resources for module ([6985f46](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/commit/6985f46e63a9b075ed372c22d50fa8237aa269f4))
+
+
+### Bug Fixes
+
+* Add terraform required version ([d1093bd](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/commit/d1093bd93fab307f4e76992e57bf7cbfc12db4a7))
+* Auto update Terraform docs ([8d2782f](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/commit/8d2782f3c5a6570fa884be50542353755f7692b6))
+
 ## [1.1.0](https://github.com/kgabriel-hashicorp/terraform-module-template/compare/v1.0.1...v1.1.0) (2024-01-04)
 
 
