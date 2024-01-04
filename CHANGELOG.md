@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/compare/v1.0.0...v1.0.1) (2024-01-04)
+
+
+### Bug Fixes
+
+* Fixing documentation ([a73ca95](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/commit/a73ca95e6410565b7238771abd78f6eff4f89ff9))
+
 ## 1.0.0 (2024-01-04)
 
 
