@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/compare/v1.0.1...v1.1.0) (2024-01-11)
+
+
+### Features
+
+* Test submodule ([cbcadfd](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/commit/cbcadfd03a7868f1ef0253e6fa7c5a26c4526130))
+
 ## [1.0.1](https://github.com/kgabriel-hashicorp/terraform-aws-iam-role-and-policy-v4/compare/v1.0.0...v1.0.1) (2024-01-04)
 
 
